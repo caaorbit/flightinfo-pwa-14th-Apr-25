@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/caaorbit/flightinfo-pwa-14th-Apr-25.git/static/css/main.e6c13ad2.css",
+    "main.js": "/caaorbit/flightinfo-pwa-14th-Apr-25.git/static/js/main.e246f71e.js",
+    "static/js/359.f84bffa1.chunk.js": "/caaorbit/flightinfo-pwa-14th-Apr-25.git/static/js/359.f84bffa1.chunk.js",
+    "static/js/453.ff33101a.chunk.js": "/caaorbit/flightinfo-pwa-14th-Apr-25.git/static/js/453.ff33101a.chunk.js",
+    "service-worker.js": "/caaorbit/flightinfo-pwa-14th-Apr-25.git/service-worker.js",
+    "index.html": "/caaorbit/flightinfo-pwa-14th-Apr-25.git/index.html",
+    "main.e6c13ad2.css.map": "/caaorbit/flightinfo-pwa-14th-Apr-25.git/static/css/main.e6c13ad2.css.map",
+    "main.e246f71e.js.map": "/caaorbit/flightinfo-pwa-14th-Apr-25.git/static/js/main.e246f71e.js.map",
+    "359.f84bffa1.chunk.js.map": "/caaorbit/flightinfo-pwa-14th-Apr-25.git/static/js/359.f84bffa1.chunk.js.map",
+    "453.ff33101a.chunk.js.map": "/caaorbit/flightinfo-pwa-14th-Apr-25.git/static/js/453.ff33101a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e246f71e.js"
+  ]
+}
